@@ -32,5 +32,5 @@ Below are images from the final project presentation:
 
 ## Certification
 Below is the placeholder for the certificate received upon completion of the program:
-![Certificate](Files/Honors Program Cretification.PNG)
+![Certificate](./Files/Honors%20Program%20Cretification.PNG)
 
