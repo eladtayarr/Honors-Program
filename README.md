@@ -1,5 +1,9 @@
 # Honors Program
 
+## Final Project (PDF)
+Below are images from the final project presentation:
+[<img width="1211" alt="צילום מסך 2024-07-17 ב-18 05 00" src="https://github.com/user-attachments/assets/5e3344df-5e8f-4005-8fca-05ff4c174d9c">](https://github.com/user-attachments/files/16267589/XMCyber.pdf)
+
 ## About the Program
 The Honors Program is a distinguished course designed to provide students with unique content and experiences through interactions with key figures from academia and industry, as well as engaging in cutting-edge research. Below are the highlights of what the program entails:
 ### Course Details:
@@ -26,9 +30,6 @@ The course engages students with unique content, meetings with key academic and 
 ## Research (PDF)
 [Research - English.pdf](https://github.com/user-attachments/files/16267650/FinalProject.-.English.pdf)
 
-## Final Project (PDF)
-Below are images from the final project presentation:
-[<img width="1211" alt="צילום מסך 2024-07-17 ב-18 05 00" src="https://github.com/user-attachments/assets/5e3344df-5e8f-4005-8fca-05ff4c174d9c">](https://github.com/user-attachments/files/16267589/XMCyber.pdf)
 
 ## Certification
 Below is the placeholder for the certificate received upon completion of the program:
